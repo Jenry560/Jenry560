@@ -1,4 +1,4 @@
-# 👨‍💻 Jenry Sanchez
+# 👨‍💻 Jenry Sánchez
 
 <div align="center">
   
