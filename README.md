@@ -115,7 +115,8 @@ const jenry = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jenry560&theme=tokyonight" alt="jenry560" />
+  <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=thenetworkme&theme=catppuccin-mocha" alt="GitHub Streak" /></a>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=jenry560&theme=tokyonight" alt="jenry560" /> -->
 </div>
 
 ## 🏆 GitHub Trophies
@@ -125,8 +126,9 @@ const jenry = {
 </div>
 
 ## 📈 Contribution Graph
-<a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=thenetworkme&theme=catppuccin-mocha" alt="GitHub Streak" /></a>
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jenry560&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
 ## 🤝 Connect With Me
 
 <div align="center">
