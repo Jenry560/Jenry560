@@ -125,10 +125,7 @@ const jenry = {
 </div>
 
 ## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jenry560&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
+<a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=thenetworkme&theme=catppuccin-mocha" alt="GitHub Streak" /></a>
 
 ## 🤝 Connect With Me
 
